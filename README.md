@@ -47,9 +47,9 @@ My goal is to become a **Data Scientist and build intelligent data-driven system
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravindra-chougale\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaviCM-Insights\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindra-chougale\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviCM-Insights\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -91,7 +91,7 @@ Next goals:
 
 # 🤝 Connect With Me
 
-💼 GitHub: https://github.com/ravindra-chougale
+💼 GitHub: https://github.com/RaviCM-Insights
 
 I am always open to **learning, collaboration, and new opportunities** in Data Science.
 
